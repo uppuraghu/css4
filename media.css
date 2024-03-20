@@ -1,0 +1,28 @@
+.aim{
+    text-align: center;
+}
+.eat{
+    text-align: center;
+}
+.ate{
+    text-align: center;
+}
+.bat{
+    text-align: center;
+}
+@media screen  and (max-width:320px){
+    th2,th3,th4{
+        display: none;
+    }
+    
+}
+@media screen and (min-width:320px) and (max-width:420px) {
+    th3,th4.e.f.i.j.k{
+        display: none;
+    }
+}
+@media screen and (min-width:420px) and (max-width:760px) {
+    th4{
+        display: none;
+    }
+}
